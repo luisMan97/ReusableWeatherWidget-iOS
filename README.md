@@ -4,7 +4,7 @@
 Run git clone to download proyect
 
 ```ruby
-git clone https://github.com/luisMan97/MeLi-iOS-SwiftUI.git
+git clone https://github.com/luisMan97/ReusableWeatherWidget-iOS.git
 ```
 
 #### Third Party Libraries
