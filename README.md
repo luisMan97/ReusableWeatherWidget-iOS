@@ -1,4 +1,4 @@
-# MeLi-iOS-SwiftUI
+# ReusableWeatherWidget-iOS
 
 ## Installation
 Run git clone to download proyect
